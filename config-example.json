@@ -1,0 +1,12 @@
+{
+  "prod": {
+    "host": "",
+    "user": "",
+    "key": "",
+    "region": ""
+  },
+  "project": {
+    "name": "",
+    "gitlab": ""
+  }
+}
